@@ -57,7 +57,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouzaB/maurodesouzaB/output/snake.svg" alt="Snake animation" />
+
+![snake gif](https://github.com/Bhuvansai22/Bhuvansai22/blob/output/github-snake-dark.svg)
 
 
 
