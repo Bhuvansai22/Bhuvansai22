@@ -59,29 +59,7 @@
 
 <img src="https://raw.githubusercontent.com/maurodesouzaB/maurodesouzaB/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaB.maurodesouzaB&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaB.maurodesouzaB&"  />
-</div>
-
-###
 
 <div align="center" style="width: 100%">
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
@@ -101,4 +79,3 @@
   <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
